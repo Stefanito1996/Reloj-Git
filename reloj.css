@@ -1,0 +1,38 @@
+.reloj 
+{
+     font-size: 150px;
+     color: rgb(208, 255, 0);
+}
+
+.container 
+{
+     margin: 0px;
+     background-color: rgb(46, 35, 35);
+     padding: 10px;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+}
+
+body 
+{
+     background-color: #000000;
+}
+
+.reloj:hover 
+{
+     font-size: 175px;
+     box-shadow: 10px 0px 10px 3px #fff;
+     
+}
+
+.parrafo
+{
+     
+     font-size: 100px;
+     color: rgb(208, 255, 0);
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+}
