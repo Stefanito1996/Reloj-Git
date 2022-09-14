@@ -1,18 +1,25 @@
+* {
+     margin: 0px;
+     padding: 0px;
+     font-size: 20px;
+}
+
 .reloj 
 {
-     font-size: 150px;
+     font-size: 50px;
      color: rgb(208, 255, 0);
+     margin: 0 auto;
+     text-align: center;
 }
 
 .container 
 {
-     margin: 0px;
+     
      background-color: rgb(46, 35, 35);
-     padding: 10px;
-     text-align: center;
-     justify-content: center;
-     align-items: center;
-     width: 100%;
+     padding: 20px;
+     width: 70%;
+     max-width: 1000px;
+     margin: 0 auto;
 }
 
 body 
@@ -22,14 +29,13 @@ body
 
 .reloj:hover 
 {
-     font-size: 175px;
-     box-shadow: 10px 0px 10px 3px #fff;
+     font-size: 80px;
+     box-shadow: 5px 0px 5px 3px #fff;
      
 }
 
 .parrafo
 {
-     
      font-size: 100px;
      color: rgb(208, 255, 0);
      text-align: center;
